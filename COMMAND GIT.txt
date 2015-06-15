@@ -1,0 +1,8 @@
+git init
+git config user.name = ''
+git config user.email = '@yahoo.fr'
+git add *
+git commit -m ''
+git remote add origin http
+git remote -v
+git push -u origin master
